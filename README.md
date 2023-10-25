@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/xiaomi-soon-brightorange?style=flat&logo=Xiaomi&logoColor=white&label=MIUI%2015&color=orange&link=https%3A%2F%2Fwww.mi.com%2Fru%2Fmiui)
 # Welcome
 Hey guys developer **MinerInc** :)
 # Telegram
